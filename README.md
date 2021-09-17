@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working as Artificial Intelligence Developer at KCTEK. 
+- 🔭 I currently work as an Artificial Intelligence Developer at KCTEK.
 - 🚒 I'm interested in autonomous vehicles,ROS computer vision, electronics, sensors, machine learning. 
 - 📝 Mail : meftunakrsu@gmail.com
  
