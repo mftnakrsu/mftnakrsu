@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I currently work as an Artificial Intelligence Resercher at Artificial Intelligence Labouratry of University of Zilina.
+- 🔭 I currently work as an Artificial Intelligence Resercher at Laboratory of Artificial Intelligence of the University of Žilina.
 - 🚒 I'm interested in autonomous vehicles,ROS computer vision, electronics, sensors, machine learning. 
 - 📝 Mail : meftunakrsu@gmail.com
  
