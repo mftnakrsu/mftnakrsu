@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I currently work as an Artificial Intelligence Developer at KCTEK.
+- 🔭 I currently work as an Artificial Intelligence Resercher at Artificial Intelligence Labouratry of University of Zilina.
 - 🚒 I'm interested in autonomous vehicles,ROS computer vision, electronics, sensors, machine learning. 
 - 📝 Mail : meftunakrsu@gmail.com
  
