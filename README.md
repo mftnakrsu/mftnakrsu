@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I currently work as an Artificial Intelligence Resercher at Laboratory of Artificial Intelligence of the University of Žilina.
+- 🔭 I currently work as an Artificial Intelligence & Embeeded Systems at MOVE ON. 
 - 🚒 I'm interested in autonomous vehicles,ROS computer vision, electronics, sensors, machine learning. 
 - 📝 Mail : meftunakrsu@gmail.com
  
