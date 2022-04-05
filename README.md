@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I currently work as an Artificial Intelligence & Embeeded Systems at MOVE ON. 
+- 🔭 I currently work as an Software Project Engineer at Coskunoz Metal Form (CMF).
 - 🚒 I'm interested in autonomous vehicles,ROS computer vision, electronics, sensors, machine learning. 
 - 📝 Mail : meftunakrsu@gmail.com
  
