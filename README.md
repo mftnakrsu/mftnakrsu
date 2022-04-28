@@ -8,9 +8,8 @@
 </h1>
 
 
-
 - 🔭 I currently work as an Software Project Engineer at Coskunoz Metal Form (CMF).
-- 🚒 I'm interested in autonomous vehicles,ROS computer vision, electronics, sensors, machine learning. 
+- 🚒 I'm interested in autonomous vehicles,ROS computer vision, electronics, machine learning. 
 - 📝 Mail :   meftunakrsu@gmail.com
 - 📝 Medium:  https://medium.com/@meftunakarsu
  
