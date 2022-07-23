@@ -7,7 +7,7 @@
 </h1>
 
 
-- 🔭 I currently work as an E&E - AI Engineer at ASELSAN.
+- 🔭 I currently work as an AI Engineer at Coskunoz Holding.
 - 🚒 I'm interested in autonomous vehicles,ROS computer vision, electronics, machine learning. 
 - 📝 Mail :   meftunakrsu@gmail.com
 - 📝 Medium:  https://medium.com/@meftunakarsu
