@@ -7,7 +7,7 @@
 </h1>
 
 
-- 🔭 I currently work as an AI Engineer at Coskunoz Holding.
+- 🔭 I currently work as an AI Engineer. Working areas :MES, big data, data engineer, production, computer vision
 - 🚒 I'm interested in autonomous vehicles,ROS computer vision, electronics, machine learning. 
 - 📝 Mail :   meftunakrsu@gmail.com
 - 📝 Medium:  https://medium.com/@meftunakarsu
