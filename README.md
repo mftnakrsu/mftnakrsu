@@ -7,7 +7,7 @@
 </h1>
 
 
-- 🔭 I currently work as an AI Engineer. Working areas :MES, big data, data engineer, production, computer vision
+- 🔭 I currently work as an AI Engineer at BOSCH. Working areas : Computer vision, image processing, AI, Data science, data engineer, big data, MES, ai in production
 - 🚒 I'm interested in autonomous vehicles,ROS computer vision, electronics, machine learning. 
 - 📝 Mail :   meftunakrsu@gmail.com
 - 📝 Medium:  https://medium.com/@meftunakarsu
