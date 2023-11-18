@@ -7,7 +7,7 @@
 </h1>
 
 
-- 🔭 I currently work as an Data Engineer at BOSCH Powertrain Solutions. Working areas : Computer vision, AI, Data science, data engineer, big data, dashboards, GUIs in production
+- 🔭 I currently work at BOSCH Powertrain Solutions. Working areas : production, computer vision, AI, Data science, data engineer, big data, dashboards, GUIs in production
 - 🚒 I'm interested in autonomous vehicles,ROS computer vision, electronics, machine learning. 
 - 📝 Mail :   meftunakrsu@gmail.com
 - 📝 Medium:  https://medium.com/@meftunakarsu
